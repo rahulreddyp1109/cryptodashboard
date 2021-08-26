@@ -35,7 +35,7 @@ plt.legend(loc="upper right")
 
 plt.show()
 
-# # Correlation Heat Map
+## Correlation Heat Map--shows the heat map of cryptocurrencies
 
 #print(merged)
 
